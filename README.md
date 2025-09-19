@@ -1,10 +1,3 @@
-Claro, aquí tienes una versión actualizada del `README.md` con el enfoque ajustado hacia la **Transformada de Fourier**. He modificado la descripción, las características y el título para reflejar el nuevo propósito de la herramienta.
-
-Simplemente reemplaza el contenido anterior con este.
-
------
-
-````markdown
 <div align="center">
   <img src="./assets/logo.svg" alt="Logo del Proyecto" width="200">
   <br/>
@@ -117,5 +110,4 @@ Este proyecto fue desarrollado por el **Equipo 1 - Procesamiento Digital de Señ
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-```
 ```
