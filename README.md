@@ -109,5 +109,3 @@ Este proyecto fue desarrollado por el **Equipo 1 - Procesamiento Digital de Señ
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
-```
