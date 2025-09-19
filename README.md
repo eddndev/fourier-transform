@@ -67,7 +67,7 @@ node -v
 1.  **Clona el repositorio** en tu máquina local:
 
     ```bash
-    git clone [https://github.com/eddndev/fourier-viewer.git](https://github.com/eddndev/fourier-viewer.git)
+    git clone https://github.com/eddndev/fourier-transform.git
     ```
 
 2.  **Navega al directorio** del proyecto:
