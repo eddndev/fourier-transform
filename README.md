@@ -5,7 +5,7 @@
     <b>Calculadora de la Transformada de Fourier</b>
   </h1>
   <p>
-    Una herramienta web para definir señales en el dominio del tiempo, calcular su Transformada de Fourier mediante integración numérica y visualizar su espectro de magnitud y fase en el dominio de la frecuencia.
+    Una herramienta web para definir señales en el dominio del tiempo, calcular su Transformada de Fourier mediante integración numérica y visualizar su espectro de magnitud y fase en el dominio de la frecuencia. Se contará con la API de Wolfram API para la integración definida.
   </p>
 </div>
 
